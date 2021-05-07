@@ -85,6 +85,7 @@ mistune==0.8.4
 more-itertools==8.7.0
 msgpack==1.0.2
 murmurhash==1.0.2
+nb-conda-kernels
 nbconvert==5.6.1
 nbformat==5.0.7
 notebook==6.0.3
@@ -127,7 +128,8 @@ pytesseract==0.3.4
 pytest==5.4.3
 python-dateutil==2.8.1
 python-pptx==0.6.18
-pywin32==228
+pytz
+pywin32
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.1
